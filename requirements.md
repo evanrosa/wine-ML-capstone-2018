@@ -94,15 +94,15 @@ Build upon your earlier analysis, folling the performance metrics you establishe
 ## Final Project, Part 5: Presentation
 > Summarize and present your findings.
 
-Present your findings to an audience that may include both technical and non-technical executive stakeholders. Summarize and break down your problem, approach, and recommendations in a manner that different levels of expertise will find informative and persuasive.
+Present your findings to an audience that may include non-technical executive stakeholders. Summarize and break down your problem, approach, and recommendations in a manner that different levels of expertise will find informative and persuasive.
 
-Start with a short executive summary of your problem, solution, and recommendation in a one page document or blog post. This will force you to be concise while creating a sharable struture for your presentation.
+Start with a short executive summary in a one page document or blog post. This will force you to be concise while creating a sharable struture for your presentation.
 
-Next, create a presentation that progresses through your project in a similar manner. Provide details and visuals. Keep slides simple - no more than 2-3 pieces of information per slide. 
+Next, create a presentation that walks through your goals, approach, results, and recommendations. Keep slides simple - no more than 2-3 pieces of information per slide. When in doubt, use visuals!
 
-Explain your goals, approach, results, and recommendations. Finally, be prepared to explain and defend your model to an inquisitive audience!
+Finally, be prepared to explain and defend your model to an inquisitive audience.
 
-> **Optional:** As a stretch challenge, try: creating an interactive demo of your model in action, explaining how you would deploy your model in a production environment, or discussing how to evaluate model performance over time.
+> **Optional:** For a stretch challenge, try any of the following: creating an interactive demo of your model in action, explaining how you would deploy your model in a production environment, or discussing how to evaluate model performance over time.
 
 **Requirements**
 1. One-page executive summary
