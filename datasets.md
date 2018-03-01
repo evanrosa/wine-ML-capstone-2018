@@ -56,6 +56,8 @@ From Kaggle:
 
 [Download Here](https://www.kaggle.com/hhs/health-insurance-marketplace)
 
+The Public Use Files receive regular updates from the Centers for Medicare & Medicaid Services and can be used in place of or as a supplemental addition to the kaggle data. Please note that these files are very large, so consider additional sampling or a targeted question. Datasets may be downloaded [here](https://www.cms.gov/cciio/resources/data-resources/marketplace-puf.html).
+
 ---
 
 <a name="option3"></a>
