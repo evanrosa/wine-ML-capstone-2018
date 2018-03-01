@@ -19,7 +19,7 @@
 
 In the field of data science, projects are practical. One of the best ways to quickly test ideas is to share your ideas with others and get feedback. Start by reviewing the requirements and [suggested data sets](./datasets.md), then generate a list of 2–3 potential ideas you'd like to pursue. 
 
-**Requirements**
+#### Requirements
 1. Generate 2–3 different possible problem statements (of at least 250 words each).
     - State the questions you seek to answer, data set suggestions, and possible challenges.
 2. Create a written pitch for each possibility that can be shared with your instructor and classmates.
@@ -40,7 +40,7 @@ For this write up, describe your hypothesis and assumptions, articulate your spe
 
 As before, make sure to review the requirements and [suggested data sets](./datasets.md) while preparing your proposal.
 
-**Requirements**
+#### Requirements
 1. Restate your specific problem statement.
 2. Expand on your initial proposal by including:
    - Hypothesis/assumptions
@@ -59,7 +59,7 @@ As before, make sure to review the requirements and [suggested data sets](./data
 
 Exploratory data analysis is a crucial step in any data workflow. Create a Jupyter Notebook that explores your data mathematically and visually. Explore features, apply descriptive statistics, look at distributions, and determine how to handle sampling or any missing values.
 
-**Requirements**
+#### Requirements
 1. Create an exploratory data analysis notebook.
 2. Perform statistical analysis, along with any visualizations.
 3. Determine how to handle sampling or missing values.
@@ -78,7 +78,7 @@ Your goal for this project is to develop a prototype model or process to success
 
 Build upon your earlier analysis, folling the performance metrics you established as part of your problem's evaluation criteria. Demonstrate your approach logically, including all relevant code and data. Polish your notebook for peer audiences by cleanly formatting sections, headers, and descriptions in markdown. Include comments in any code.
 
-**Requirements**
+#### Requirements
 1. A detailed Jupyter Notebook with a summary of your analysis, approach, and evaluation metrics.
 2. Clearly formatted structure with section headings and markdown descriptions.
 3. Comments explaining your code.
@@ -104,18 +104,17 @@ Finally, be prepared to explain and defend your model to an inquisitive audience
 
 > **Optional:** For a stretch challenge, try any of the following: creating an interactive demo of your model in action, explaining how you would deploy your model in a production environment, or discussing how to evaluate your solution's performance over time.
 
-**Requirements**
+#### Requirements
 1. One-page executive summary
 2. Detailed presentation for non-technical audience.
 3. Your presentation should include:
    - A problem statement.
-   - Initial metrics and assumptions.
-   - Your approach and process.
-   - A data model.
-   - Your performance evaluation (compared to original success metrics).
-   - The impact of your findings and any recommendations.
-   - Suggestions for implementation or next steps.
-
+   - Metrics and assumptions.
+   - Approach and process.
+   - Your model or solution.
+   - Performance evaluation (how your approach compares to your original success metrics).
+   - Impact of your findings.
+   - Recommendations or next steps.
  4. *Optional:* Create/host an interactive demo of your model, explain how to deploy your model, or describe how you would evaluate performance over time.
 
 ---
