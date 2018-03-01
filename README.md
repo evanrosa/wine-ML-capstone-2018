@@ -12,7 +12,7 @@
 | Schedule | Suggested structure & schedule | [Here](./schedule.md) |
 | Datasets | Curated project dataset suggestions  | [Here](./datasets.md) |
 
-> Note: Due to variability in student project selection, sample solutions are not provided for these datasets. However, you can find a wide range of final project examples in our [GA Gallery](https://gallery.generalassemb.ly/DS?metro=).
+> Note: Due to variability in student project selection, sample solutions are not provided. However, you can find a wide range of prior project examples in our [GA Gallery](https://gallery.generalassemb.ly/DS?metro=).
 
 ---
 
