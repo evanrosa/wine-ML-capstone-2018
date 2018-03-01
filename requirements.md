@@ -4,11 +4,11 @@
 
 | Deliverables | 
 | --- | 
-| [Part 1](#pitch)        
-| [Part 2](#proposal)     | 
-| [Part 3](#eda)          | 
-| [Part 4](#notebook)     |
-| [Part 5](#presentation) | 
+| [Part 1: Pitch](#pitch)        
+| [Part 2: Proposal](#proposal)     | 
+| [Part 3: Brief](#eda)          | 
+| [Part 4: Findings](#notebook)     |
+| [Part 5: Presentation](#presentation) | 
 
 ---
 
