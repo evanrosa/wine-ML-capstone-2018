@@ -1,12 +1,13 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Final Project Datasets
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Data Science Capstone: Suggestions
 
-## Suggested Datasets
+> Final Project Dataset Ideas
 
 Below, we have sourced some suggested datasets suitable for final projects, including a range of selections - some are more complicated and may require a substantial amount of effort. 
 
-| Dataset Suggestions | 
+## Dataset Suggestions
+| | 
 | --- | 
-|*Suggested Datasets* |
+|*Intermediate Datasets* |
 | [Option 1: Amazon Pricing Data](#option1) |
 | [Option 2: Insurance Marketplace Data](#option2) | 
 | [Option 3: Instacart Order Data](#option3) | 
