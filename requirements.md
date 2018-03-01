@@ -102,7 +102,7 @@ Next, create a presentation that walks through your goals, approach, results, an
 
 Finally, be prepared to explain and defend your model to an inquisitive audience.
 
-> **Optional:** For a stretch challenge, try any of the following: creating an interactive demo of your model in action, explaining how you would deploy your model in a production environment, or discussing how to evaluate model performance over time.
+> **Optional:** For a stretch challenge, try any of the following: creating an interactive demo of your model in action, explaining how you would deploy your model in a production environment, or discussing how to evaluate your solution's performance over time.
 
 **Requirements**
 1. One-page executive summary
