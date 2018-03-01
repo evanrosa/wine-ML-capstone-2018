@@ -2,13 +2,13 @@
 
 > See below for specific deliverable requirements
 
-| Deliverables | Schedule |
-| --- | --- |
-| [Part 1](#pitch)        | [Suggested Schedule](./schedule.md#schedule) |
-| [Part 2](#proposal)     | [Suggested Schedule](./schedule.md#schedule)  |
-| [Part 3](#eda)          | [Suggested Schedule](./schedule.md#schedule)  |
-| [Part 4](#notebook)     | [Suggested Schedule](./schedule.md#schedule)  |
-| [Part 5](#presentation) | [Suggested Schedule](./schedule.md#schedule)  |
+| Deliverables | 
+| --- | 
+| [Part 1](#pitch)        
+| [Part 2](#proposal)     | 
+| [Part 3](#eda)          | 
+| [Part 4](#notebook)     |
+| [Part 5](#presentation) | 
 
 ---
 
@@ -24,6 +24,9 @@ In the field of data science, projects are practical. One of the best ways to qu
     - State the questions you seek to answer, data set suggestions, and possible challenges.
 2. Create a written pitch for each possibility that can be shared with your instructor and classmates.
 3. Submit or present your pitch as required by your instructor.
+
+#### Submission
+- Submit or share your project proposal as per your instructor's directions.
 
 ---
 
@@ -44,37 +47,46 @@ As before, make sure to review the requirements and [suggested data sets](./data
    - Goals and success metrics
    - Risks or limitations
 3. Articulate the specific data set you've chosen and why.
+
+#### Submission
+- Submit or share your project proposal as per your instructor's directions.
   
 ---
 
 <a name="eda"></a>
-## Final Project, Part 3: Exploratory Data Analysis
-> Clean and analyze your data set.
+## Final Project, Part 3: EDA Brief
+> Perform EDA on your dataset
 
-Exploratory data analysis is a crucial step in the data workflow. Create a Jupyter Notebook that explores your data both mathematically and visually. You should explore features, apply descriptive statistics, look at distributions, and determine how to handle sampling or any missing values.
+Exploratory data analysis is a crucial step in any data workflow. Create a Jupyter Notebook that explores your data mathematically and visually. Explore features, apply descriptive statistics, look at distributions, and determine how to handle sampling or any missing values.
 
 **Requirements**
 1. Create an exploratory data analysis notebook.
-2. Include statistical analysis and EDA visualizations.
+2. Perform statistical analysis, along with any visualizations.
 3. Determine how to handle sampling or missing values.
-4. Submit or share EDA notebook as per your instructor's directions.
+4 Clearly identify shortcomings, assumptions, and next steps.
+
+#### Submission
+- Submit or share your project brief as per your instructor's directions.
 
 ---
 
 <a name="notebook"></a>
 ## Final Project, Part 4: Technical Notebook
-> Build and document a working model.
+> Build and document a working model, prototype, recommendation, or solution.
 
-By now, you're ready to apply your modeling skills to make machine learning predictions. Your goal for this project is to develop a working predictive model or process to resolve your problem statement. You should document your work in a technical notebook that can be shared with your peers.
+Your goal for this project is to develop a prototype model or process to successfully resolve the business problem you've chosen. Document your work in a technical notebook that can be shared with your peers.
 
-Build upon your earlier EDA notebook, expanding on your statistical analysis, and include your final model, along with any specific performance metrics and evaluation criteria. Organize your information clearly for an external audience, including a table of contents and clearly demarcated sections, using markdown to create subheaders or descriptions as needed. Finally, include comments on all of your code.
+Build upon your earlier analysis, folling the performance metrics you established as part of your problem's evaluation criteria. Demonstrate your approach logically, including all relevant code and data. Polish your notebook for peer audiences by cleanly formatting sections, headers, and descriptions in markdown. Include comments in any code.
 
 **Requirements**
-1. A detailed Jupyter Notebook with a summary of your: statistical analysis, model, and evaluation metrics.
-2. Use markdown to clearly organize all of your notebook's information.
-3. Include comments on all of your code.
+1. A detailed Jupyter Notebook with a summary of your analysis, approach, and evaluation metrics.
+2. Clearly formatted structure with section headings and markdown descriptions.
+3. Comments explaining your code.
 
 > Note: Here are some things to consider in your notebook: sample size, correlations, feature importance, unexplained variance or outliers, variable selection, train/test comparison, and any relationships between your target and independent variables.
+
+#### Submission
+- Submit or share your project proposal as per your instructor's directions.
 
 ---
 
@@ -82,19 +94,19 @@ Build upon your earlier EDA notebook, expanding on your statistical analysis, an
 ## Final Project, Part 5: Presentation
 > Summarize and present your findings.
 
-As a data scientist, you'll frequently be asked to present your findings to a mixed audience of both technical and non-technical stakeholders, so it's important to practice summarizing and breaking down your process for different levels of expertise. 
+Present your findings to an audience that may include both technical and non-technical executive stakeholders. Summarize and break down your problem, approach, and recommendations in a manner that different levels of expertise will find informative and persuasive.
 
-First, create a short summary of your problem and solution for a general audience. Keep it short and concise (i.e., one page). Think of this as an executive summary or — if you prefer — frame it as a blog post.
+Start with a short executive summary of your problem, solution, and recommendation in a one page document or blog post. This will force you to be concise while creating a sharable struture for your presentation.
 
-Second, create a presentation that reviews your project in more detail but still balances information for a general audience. Use visuals, explain your goals and approach, compare your results against initial metrics, and describe the impact of your findings. Be prepared to explain and defend your model to an inquisitive audience!
+Next, create a presentation that progresses through your project in a similar manner. Provide details and visuals. Keep slides simple - no more than 2-3 pieces of information per slide. 
 
-*Optional*: As a stretch challenge, try creating an interactive demo of your model in action, explain how you would deploy your model in a production environment, or discuss how to evaluate model performance over time.
+Explain your goals, approach, results, and recommendations. Finally, be prepared to explain and defend your model to an inquisitive audience!
+
+> **Optional:** As a stretch challenge, try: creating an interactive demo of your model in action, explaining how you would deploy your model in a production environment, or discussing how to evaluate model performance over time.
 
 **Requirements**
-1. Create a one-page summary write up (or blog post) that explains your project for a non-technical audience.
-
-2. Create a detailed presentation (e.g., slide deck) that explains your model findings for a general audience (i.e., a mix of technical and non-technical stakeholders).
-
+1. One-page executive summary
+2. Detailed presentation for non-technical audience.
 3. Your presentation should include:
    - A problem statement.
    - Initial metrics and assumptions.
