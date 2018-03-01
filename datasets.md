@@ -2,7 +2,7 @@
 
 ## Suggested Datasets
 
-Below, we have sourced four suggested datasets that can be used for final projects. We've also provided three additional choices, but note that these "advanced" selections are more complicated and will require a substantial amount of effort. 
+Below, we have sourced some suggested datasets suitable for final projects, including a range of selections - some are more complicated and may require a substantial amount of effort. 
 
 | Dataset Suggestions | 
 | --- | 
@@ -17,7 +17,7 @@ Below, we have sourced four suggested datasets that can be used for final projec
 | [Option 7: Trump Tweet Data](#option7) | 
 | [Option 8: Choose Your Own](#option8) |
 
-> Note: Alternatively, instructors may optionally allow students to choose their own final projects dataset. Students should clearly indicate this preference and discuss their choice(s) with instructors ahead of time.
+> Note: Alternatively, instructors may allow students to choose their own final project topic and dataset. Students should clearly indicate this preference and discuss their choice(s) with instructors ahead of time.
 
 ---
 
