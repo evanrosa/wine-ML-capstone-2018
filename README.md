@@ -32,7 +32,7 @@ You will get structured guidance and designated time to work throughout the cour
 
 ## Project Resources
 
-* [Check out our requirements doc](./requirements.md) for detailed guidelines for our final project requirements. 
+* [Check out our requirements doc](./requirements.md) for a detailed walkthrough of our final project deliverable requirements. 
 * If you're looking for final project ideas, [check out this list of ideas](./datasets.md) curated from successful past projects.
 
 ---
@@ -47,7 +47,6 @@ You will get structured guidance and designated time to work throughout the cour
     - Initial EDA Brief: Due @ End of Unit 3
     - Technical Report: Due @ End of Unit 4
     - Presentation: Due @ End of Unit 4
-
 
 ---
 
