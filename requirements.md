@@ -11,8 +11,9 @@
 
 ---
 
-<a name="proposal">
+<a name="proposal"></a>
 ## Final Project, Part 1: *Proposal*
+   
 > Frame your problem, criteria, and data source(s)
 
 Describe your chosen problem and state whether you have access to relevant data. If you get stuck, [see this list of curated datasets](./datasets.md).
