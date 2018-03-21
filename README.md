@@ -18,15 +18,15 @@
 ## Project Objective(s)
 
 #### Description
-Our final project asks you to apply your skills to a business problem of your choice. The capstone is an opportunity for you to demonstrate your new skills and tackle a pressing issue relevant to your team, division, or organization. You’ll generate a hypothesis, analyze data, and generate a working model, prototype, solution, or recommendation.
+Our final project asks you to apply your skills to a business problem of your choice. The capstone is an opportunity for you to demonstrate your new skills and tackle a pressing issue relevant to your team, division, or organization. You’ll generate a hypothesis, analyze internal data, and generate a working model, prototype, solution, or recommendation.
 
 #### Deliverables
-You will get structured guidance throughout the course. Final project deliverables include:
+You will get structured guidance and designated time to work throughout the course. Final project deliverables include:
 
-- Project Proposal: Describe your chosen problem and whether you have access to relevant data.
-- Project Brief: A summary of your initial analysis and next steps in order to get assistance from your instructional team.
-- Technical Notebook: Submit a cleanly formatted Jupyter notebook (or other files) documenting your code and process for technical/peer stakeholders.
-- Presentation: Present a summary of your business problem, approach, and recommendation to an audience of non-technical executive stakeholders.
+- **Project Proposal**: Describe your chosen problem and whether you have access to relevant data.
+- **Project Brief**: Share a brief summary of your initial analysis and next steps in order to get assistance from your instructional team.
+- **Technical Notebook**: Submit a cleanly formatted Jupyter notebook (or other files) documenting your code and process for technical/peer stakeholders.
+- **Presentation**: Present a summary of your business problem, approach, and recommendation to an audience of non-technical executive stakeholders.
 
 ---
 
@@ -39,26 +39,14 @@ You will get structured guidance throughout the course. Final project deliverabl
 
 ## (Suggested) Project Schedule
 
-| Lesson  | Deliverables | Status
-| --- | --- | --- |
-| Unit 1, Lesson 1 | Review All Projects and Deliverables	             | **Discussion** |
-| Unit 1, Lesson 4 | Unit Project 1                                    | **Complete in-Class or as HW** |
-| --- | --- | --- |
-| Unit 2, Lesson 2 | Review Final Project Datasets	                   | **Discussion or as HW** |
-| Unit 2, Lesson 5 | Unit Project 2                                    | **Complete in-Class or as HW** |
-| Unit 2, Lesson 5 | Final Project Pt 1: Create Problem statement 	   | **Assigned** |
-| --- | --- | --- |
-| Unit 3, Lesson 1 | Final Project Pt 1: Create Problem statement 	   | **Due** |
-| Unit 3, Lesson 1 | Final Project Pt 2: Define Data sources           | **Assigned** |
-| Unit 3, Lesson 3 | Final Project Pt 2: Define Data sources           | **Due** |
-| Unit 3, Lesson 3 | Final Project Pt 3: Perform EDA on Data           | **Assigned** |
-| Unit 3, Lesson 5 | Unit Project 3                                    | **Optional: Complete In-Class or as HW** |
-| --- | --- | --- |
-| Unit 4, Lesson 1 | Final Project Pt 3: Perform EDA on Data           | **Due** |
-| Unit 4, Lesson 1 | Final Project Pt 4: Model Data                    | **Assigned** |
-| Unit 4, Lesson 4 | Final Project Pt 4: Model Data                    | **Due** |
-| Unit 4, Lesson 4 | Final Project Pt 5: Present Data                  | **Assigned** |
-| Unit 4, Lesson 6 |Final Project  Pt 5: Present Data                  | **Due** |
+- Project 1: Due @ End of Unit 1
+- Project 2: Due @ End of Unit 2
+- Project 3: Due @ End of Unit 3
+- Project 4 (Final):
+    - Proposal + Dataset: Due @ End of Unit 2
+    - Initial EDA Brief: Due @ End of Unit 3
+    - Technical Report: Due @ End of Unit 4
+    - Presentation: Due @ End of Unit 4
 
 
 ---
