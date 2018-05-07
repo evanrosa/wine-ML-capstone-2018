@@ -16,7 +16,7 @@
    
 > Frame your problem, criteria, and data source(s)
 
-Describe your chosen problem and state whether you have access to relevant data. If you get stuck, [see this list of curated datasets](./datasets.md).
+Describe your chosen problem and state whether you have access to relevant data. If you get stuck, [check out Kaggle!](www.kaggle.com).
 
 #### Requirements
 1. Draft a well-formed problem statement relevant to a business problem affecting your team, division, or organization.
@@ -32,7 +32,7 @@ Describe your chosen problem and state whether you have access to relevant data.
 ---
 
 <a name="eda"></a>
-## Final Project, Part 2: *Brief*
+## Final Project, Part 2: *EDA*
 > Perform EDA on your dataset
 
 Exploratory data analysis is a crucial step in any data workflow. Create a Jupyter Notebook that explores your data mathematically and visually. Explore features, apply descriptive statistics, look at distributions, and determine how to handle sampling or any missing values.
@@ -49,7 +49,7 @@ Exploratory data analysis is a crucial step in any data workflow. Create a Jupyt
 ---
 
 <a name="notebook"></a>
-## Final Project, Part 3: *Technical Notebook*
+## Final Project, Part 3: *Model*
 > Build and document a working model, prototype, recommendation, or solution.
 
 Develop a prototype model or process to successfully resolve the business problem you've chosen. Document your work in a technical notebook that can be shared with your peers.

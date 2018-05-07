@@ -9,7 +9,6 @@
 | Topic | Description | Link |
 | --- | --- | --- |
 | Requirements | Final project deliverable descriptions | [Here](./requirements.md) |
-| Sample Topics | Curated project dataset suggestions  | [Here](./suggestions.md) |
 
 > Note: Due to variability in student project selection, sample solutions are not provided. However, you can find a wide range of prior project examples in our [GA Gallery](https://gallery.generalassemb.ly/DS?metro=).
 
@@ -23,36 +22,47 @@ Our final project asks you to apply your skills to a business problem of your ch
 #### Deliverables
 You will get structured guidance and designated time to work throughout the course. Final project deliverables include:
 
-- **Project Proposal**: Describe your chosen problem and whether you have access to relevant data.
-- **Project Brief**: Share a brief summary of your initial analysis and next steps in order to get assistance from your instructional team.
-- **Technical Notebook**: Submit a cleanly formatted Jupyter notebook (or other files) documenting your code and process for technical/peer stakeholders.
-- **Presentation**: Present a summary of your business problem, approach, and recommendation to an audience of non-technical executive stakeholders.
+- **Part 1: Project Proposal/Data**: Describe your chosen problem and whether you have access to relevant data. A link to your data source is appreciated.
+- **Part 2: Exploratory Data Analysis (EDA)**: Share a summary of your initial analysis. Notebook should contain a thorough analysis and description of your data as well as relevant graphics. The goal is that the reader underderstands the shape and nature of the data you are working with. 
+- **Part 3: Modeling/Results**: Submit a cleanly formatted Jupyter notebook (or other files) documenting your code, processes, model, and results. The format of this notebook should resemble a medium-length memo.
+- **Part 4: Presentation**: Present a summary of your business problem, approach, and recommendation to an audience of non-technical executive stakeholders.
+
+Your project is meant to resemble an actual client deliverable. Your audience is a client. Parts 2 and 3 should be clean notebooks that you would feel comfortable presenting to a client. Part 4, the presentation, should resemble an actual client meeting in which you present your finds.
+
+> "Everyone is your client." -Dr. Albert Lee
 
 ---
 
 ## Project Resources
 
-* [Check out our requirements doc](./requirements.md) for a detailed walkthrough of our final project deliverable requirements. 
-* If you're looking for final project ideas, [check out this list of ideas](./suggestions.md) curated from successful past projects.
+* [Check out our requirements doc](./requirements.md) for a detailed walkthrough of our final project deliverable requirements.
+* If you're looking for final project ideas, [Kaggle](www.kaggle.com) is an excellent resource for free and open data. As always, you may not use work data for this project! It is also wise to not use anything related to your current work projects
 
 ---
 
-## (Suggested) Project Schedule
+## Project Schedule
 
-- Project 1: Due @ End of Unit 1
-- Project 2: Due @ End of Unit 2
-- Project 3: Due @ End of Unit 3
-- Project 4 (Final):
-    - Proposal + Dataset: Due @ End of Unit 2
-    - Initial EDA Brief: Due @ End of Unit 3
-    - Technical Report: Due @ End of Unit 4
-    - Presentation: Due @ End of Unit 4
+- Part 1: 
+	- For classes that meet Mon/Weds and Tues/Thurs, due **Friday, May 11th**
+	- For classes that meet Fridays, due **Tuesday, May 15th**
+- Part 2: 
+	- For classes that meet Mon/Weds and Tues/Thurs, due **TBA**
+	- For classes that meet Fridays, due **TBA**
+- Part 3:
+	- For classes that meet Mon/Weds and Tues/Thurs, due **TBA**
+	- For classes that meet Fridays, due **TBA**
+- Part 4 (Final):
+	- Your presentations will be between 5 to 7 minutes, with time for Q&A filling a 10-minute block.
+	- Final presentations are given in the last class.
+	- If you will not be present on our last day, please organize to have your presentation the second-to-last day.
+	- Due to the class size, to break up monotony, you may elect to give your final presentation any time within the last 3 class days. (For the Friday class, this means the last _two_ weeks, morning or afternoon).
+
 
 ---
 
 ## Rubric
 
-For all deliverables, requirements will be evaluated on a simple point scale of 0, 1, or 2. Additionally, instructors will provide you with feedback on required portions of your project.
+Part 1 is on a 0/1 scale (it is complete or it is not). For all deliverables (ie, Parts 2, 3, and 4 above), requirements will be evaluated on a simple point scale of 0, 1, or 2. Additionally, instructors will provide you with feedback on required portions of your project.
 
 Score | Expectations
 :--- | :---
@@ -63,6 +73,7 @@ Score | Expectations
 
 > Note: Scores of `2` mean that a requirement has been completely fulfilled, while `3` is typically reserved for bonus objectives.
 
+Your final project is therefore out of a total of 7 points. A 6 or higher is required for passing this assessment, and passing this assessment is required for passing this course. Do not count on receiving 3s, as they are given subjectively to above-and-beyond analyses.
 
 ---
 
