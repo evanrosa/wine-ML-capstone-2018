@@ -53,10 +53,9 @@ Your project is meant to resemble an actual client deliverable. Your audience is
 	- For classes that meet Fridays, due **TBA**
 - Part 4 (Final):
 	- Your presentations will be between 5 to 7 minutes, with time for Q&A filling a 10-minute block.
-	- Final presentations are given in the last class.
-	- If you will not be present on our last day, please organize to have your presentation the second-to-last day.
+	- Final presentations are given in the last two days of class (for the Friday class, this is the last day).
+	- If you will not be present in your scheduled time, it is your responsibility to organize to have your presentation earlier.
 	- Due to the class size, to break up monotony, you may elect to give your final presentation any time within the last 3 class days. (For the Friday class, this means the last _two_ weeks, morning or afternoon).
-
 
 ---
 
