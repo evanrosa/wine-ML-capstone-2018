@@ -27,7 +27,7 @@ You will get structured guidance and designated time to work throughout the cour
 - **Part 3: Modeling/Results**: Submit a cleanly formatted Jupyter notebook (or other files) documenting your code, processes, model, and results. The format of this notebook should resemble a medium-length memo.
 - **Part 4: Presentation**: Present a summary of your business problem, approach, and recommendation to an audience of non-technical executive stakeholders.
 
-Your project is meant to resemble an actual client deliverable. Your audience is a client. Parts 2 and 3 should be clean notebooks that you would feel comfortable presenting to a client. Part 4, the presentation, should resemble an actual client meeting in which you present your finds.
+Your project is meant to resemble an actual client deliverable. Your audience is a client. Parts 2 and 3 should be clean notebooks that you would feel comfortable presenting to a client. Part 4, the presentation, should resemble an actual client meeting in which you present your findings.
 
 > "Everyone is your client." -Dr. Albert Lee
 
