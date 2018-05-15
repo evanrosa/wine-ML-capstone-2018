@@ -46,11 +46,11 @@ Your project is meant to resemble an actual client deliverable. Your audience is
 	- For classes that meet Mon/Weds and Tues/Thurs, due **Friday, May 11th**
 	- For classes that meet Fridays, due **Tuesday, May 15th**
 - Part 2: 
-	- For classes that meet Mon/Weds and Tues/Thurs, due **TBA**
-	- For classes that meet Fridays, due **TBA**
+	- For classes that meet Mon/Weds and Tues/Thurs, due **Friday, June 8th, but it is recommended you work on it much sooner!**
+	- For classes that meet Fridays, due **Wednesday, June 6th, but it is recommended you work on it much sooner!**
 - Part 3:
-	- For classes that meet Mon/Weds and Tues/Thurs, due **TBA**
-	- For classes that meet Fridays, due **TBA**
+	- For classes that meet Mon/Weds and Tues/Thurs, due **Wednesday, June 13th**
+	- For classes that meet Fridays, due **Wednesday, June 13th**
 - Part 4 (Final):
 	- Your presentations will be between 5 to 7 minutes, with time for Q&A filling a 10-minute block.
 	- Final presentations are given in the last two days of class (for the Friday class, this is the last day).
