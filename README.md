@@ -4,16 +4,6 @@
 
 ---
 
-## Materials We Provide
-
-| Topic | Description | Link |
-| --- | --- | --- |
-| Requirements | Final project deliverable descriptions | [Here](./requirements.md) |
-
-> Note: Due to variability in student project selection, sample solutions are not provided. However, you can find a wide range of prior project examples in our [GA Gallery](https://gallery.generalassemb.ly/DS?metro=).
-
----
-
 ## Project Objective(s)
 
 #### Description
@@ -22,7 +12,7 @@ Our final project asks you to apply your skills to a business problem of your ch
 #### Deliverables
 You will get structured guidance and designated time to work throughout the course. Final project deliverables include:
 
-- **Part 1: Project Proposal/Data**: Describe your chosen problem and whether you have access to relevant data. A link to your data source is appreciated.
+- **Part 1: Project Proposal/Data**: Select a data set and fill out the notebook provided in this repository. The goal of this portion is to get approval from the instructional team for your data. If you have any questions regarding the viability of your data, please reach out. If the team decides your dataset is outside the bounds of a sensible capstone, you will need to redo this part. See the included notebook for what a good data set looks like.
 - **Part 2: Exploratory Data Analysis (EDA)**: Share a summary of your initial analysis. Notebook should contain a thorough analysis and description of your data as well as relevant graphics. The goal is that the reader underderstands the shape and nature of the data you are working with. 
 - **Part 3: Modeling/Results**: Submit a cleanly formatted Jupyter notebook (or other files) documenting your code, processes, model, and results. The format of this notebook should resemble a medium-length memo.
 - **Part 4: Presentation**: Present a summary of your business problem, approach, and recommendation to an audience of non-technical executive stakeholders.
@@ -41,21 +31,7 @@ Your project is meant to resemble an actual client deliverable. Your audience is
 ---
 
 ## Project Schedule
-
-- Part 1: 
-	- For classes that meet Mon/Weds and Tues/Thurs, due **Friday, May 11th**
-	- For classes that meet Fridays, due **Tuesday, May 15th**
-- Part 2: 
-	- For classes that meet Mon/Weds and Tues/Thurs, due **Friday, June 8th, but it is recommended you work on it much sooner!**
-	- For classes that meet Fridays, due **Wednesday, June 6th, but it is recommended you work on it much sooner!**
-- Part 3:
-	- For classes that meet Mon/Weds and Tues/Thurs, due **Wednesday, June 13th**
-	- For classes that meet Fridays, due **Wednesday, June 13th**
-- Part 4 (Final):
-	- Your presentations will be between 5 to 7 minutes, with time for Q&A filling a 10-minute block.
-	- Final presentations are given in the last two days of class (for the Friday class, this is the last day).
-	- If you will not be present in your scheduled time, it is your responsibility to organize to have your presentation earlier.
-	- Due to the class size, to break up monotony, you may elect to give your final presentation any time within the last 3 class days. (For the Friday class, this means the last _two_ weeks, morning or afternoon).
+For due dates, please see the `Due Dates` section of your Course Info repository.
 
 ---
 
@@ -72,16 +48,14 @@ Score | Expectations
 
 > Note: Scores of `2` mean that a requirement has been completely fulfilled, while `3` is typically reserved for bonus objectives.
 
-Your final project is therefore out of a total of 7 points. A 6 or higher is required for passing this assessment, and passing this assessment is required for passing this course. Do not count on receiving 3s, as they are given subjectively to above-and-beyond analyses.
+Your final project is therefore out of a total of 7 points. A 5 or higher is required for passing this assessment, and passing this assessment is required for passing this course. Do not count on receiving 3s, as they are given subjectively to above-and-beyond analyses.
 
 ---
 
 
 ## Project Submission
-
-Instructors will explain how to submit project deliverables. Depending on the deliverable, this may be done by:
-
-- Creating a repository in your github profile, hosting your materials, and sharing a link with your instructor.
-- Creating a document or slide deck/PDF to share with an audience.
-
----
+Parts 1, 2, and 3 are submitted the same way as our previous projects. You are to fork this repository, edit it, and push it to your own personal page.
+* **Part 1:** You will fill our the supplied notebook in this repository.
+* **Part 2:** You will being from a blank notebook and include it in this repository.
+* **Part 3:** You will being from a blank notebook and include it in this repository.
+* **Part 4:** Your presentation in the last week of class is your submission. You do not need to submit your slidedeck.
